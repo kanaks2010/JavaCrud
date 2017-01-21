@@ -27,6 +27,7 @@
     "nativeLanguage": "en",
     "languages": [
       "en"
-    ]
+    ],
+    "herokuAppName": "tranquil-atoll-73123"
   }
 }
